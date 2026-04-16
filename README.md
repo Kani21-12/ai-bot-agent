@@ -35,13 +35,21 @@ It demonstrates how autonomous AI systems:
 ---
 
 ## 📂 Project Structure
+
 telegram-ai-agent/
+
 │
+
 ├── bot.py # Telegram bot
+
 ├── simple_bot.py # CLI chatbot
+
 ├── .env # API keys (not uploaded)
+
 ├── requirements.txt
+
 ├── README.md
+
 └── screenshots/
 
 ---
@@ -50,6 +58,7 @@ telegram-ai-agent/
 
 ### 1️⃣ Clone the repository
 git clone https://github.com/Kani21-12/ai-bot-agent.git
+
 cd ai-bot-agent
 
 ### 2️⃣ Create virtual environment
