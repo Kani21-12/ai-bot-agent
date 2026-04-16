@@ -37,19 +37,12 @@ It demonstrates how autonomous AI systems:
 ## 📂 Project Structure
 
 telegram-ai-agent/
-
 │
-
-├── bot.py # Telegram bot
-
-├── simple_bot.py # CLI chatbot
-
-├── .env # API keys (not uploaded)
-
+├── bot.py               # Telegram bot
+├── simple_bot.py        # CLI chatbot
+├── .env                 # API keys (not uploaded)
 ├── requirements.txt
-
 ├── README.md
-
 └── screenshots/
 
 ---
