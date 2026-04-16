@@ -46,14 +46,10 @@ telegram-ai-agent/
 
 ---
 
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
 git clone https://github.com/Kani21-12/ai-bot-agent.git
-
 cd ai-bot-agent
 
 ### 2️⃣ Create virtual environment
@@ -110,7 +106,7 @@ This simulates a simple Reinforcement Learning concept.
 ![Reward Check](screenshots/aiBotRewardcheck.png)
 
 ### 📱 Telegram Bot Response
-![Telegram Bot](screenshots/telegramBotResponse.png)
+![Telegram Bot](screenshots/telegramBotresponse.png)
 
 ### 🎯 Telegram Reward Check
 ![Telegram Reward](screenshots/telegramRewardcheck.png)
